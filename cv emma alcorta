@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cv Emma Alcorta</title>
+    <div class="content_19">
+        <figure>
+          <img src="https://fotomanias.com.ar/wp-content/uploads/2019/03/foto-carnet-fondo-celeste.jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="TAMAÑO de FOTO CARNET ❤️ Todas las MEDIDAS en 2023 ⋆" data-noaft="1" style="width: 296.04px; height: 299px; margin: 0px;">
+        </figure>
+        <hgroup>
+          <h1 class="fadeInDown">Emma Alcorta</h1>
+          <h2 class="fadeInUp">Curriculum vitae</h2>
+        </hgroup>
+      </div>
+      <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <!-- Main section -->
+  <section role="main" class="content_19">
+    <div class="grid_16">
+      <!-- About me -->
+      <div class="grid_8 fadeInLeft">
+        <h3>Sobre mí</h3>
+        <p>Mi nombre es Emma Alcorta y soy Licenciada en turismo y Hoteleria.</p>
+        <p>Actualmente estoy trabajando en un hotel 4 estrellas en Tulum, Mexico, y estoy haciendo un curso de programacion ya que es algo que siempre quice aprender .</p><p>¡Un saludo!</p>
+      </div>
+  
+      <!-- knowledge -->
+      <div class="grid_8 knowledge fadeInRight">
+        <h3>Conocimientos</h3>
+        <ul class="values">
+          <li>excel<span style="width: 70%;"></span></li>
+          <li>word<span style="width: 90%;"></span></li>
+          <li>Ingles<span style="width: 80%;"></span></li>
+        </ul>
+      </div>
+    </div>
+  
+    <!-- Experience -->
+    <div class="grid_16 experiences appear">
+      <h3>Experiencias</h3>
+      <ul>
+         <li>
+          <h4><strong>Area de Ventas</strong></h4>
+          <span class="site">Zendero Tulum, Mexico</span>
+          <span class="date">2017 - Actualmente</span>
+          <p>Me encargo de todas las recervas, consultas y dudas que tengan clientes y/o futuros huespedes.</p>
+        </li>
+        <li>
+          <h4><strong>Recepcionista</strong></h4>
+          <span class="site">Hotel Holyday Inn</span>
+          <span class="date">2010 - 2016</span>
+          <p>Encargada de check in y chaeck out, ademas de hacer que los huespedes esten lo mas comodo posibles y resolver problemas y/o inquietudes.</p>
+        </li>
+        <li>
+          <h4><strong>Recepcionista</strong></h4>
+          <span class="site">Hotel Luz, Nogoya Entre Rios</span>
+          <span class="date">2009 - 2010</span>
+          <p>Mi primer trabajo cerca de mi pueblo natal, atendiendo a huespedes y futuros huespedes.</p>
+        </li>
+      </ul>
+    </div>
+  
+    <!-- Training -->
+    <div class="grid_16 training appear">
+      <h3>Formación</h3>
+      <div class="formation1">
+      <ul>
+        <li>
+          <h4><strong>Linceciatura Turismo y Hoteleria</strong></h4>
+          <span class="site">Universidad Virtual de Quilmes.</span>
+          <span class="date">2010</span>
+        </li>
+        <li>
+          <h4><strong>Tecnicatura en Administracion Hotelera</strong></h4>
+          <span class="site">Instituto Sol</span>
+          <span class="date">2005</span>
+        </li>
+      </ul>
+      </div>
+    </div>
+  
+    <!-- Social Media -->
+    <div class="grid_8 socialmedia fadeInUp">
+      <h3>Social Media - Contactar</h3>
+      <ul class="Social media">
+        <li>Instagram</li>
+        <li>Facebook</li>
+        <li>Linkeding</li>
+        <li>Twitter</li>
+      </ul>
+    </div>
+    
+    <!-- Information -->
+    <div class="grid_8 information fadeInUp">
+      <h3>Otros datos</h3>
+      <ul class="information">
+        <li>Inglés nivel medio</li>
+        <li>Facilidad para trabajar en equipo</li>
+        <li class="">Aprendizaje rápido en nuevas tecnologías</li>
+        <li class="">carnet B1, coche propio</li>
+      </ul>
+    </div>
+   
+</body>
+</html>
